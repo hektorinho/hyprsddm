@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Hyprsddm
+Description=Hyprland themed sddm!
+Author=Hektor Suhr
+Copyright=Copyright (C) 2024 Hektor Suhr
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.2
+Website=https://github.com/hektorinho/Hyprsddm
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=rhsuhr@gmail.com
+Theme-Id=hyprsddm
+Theme-API=0.11
